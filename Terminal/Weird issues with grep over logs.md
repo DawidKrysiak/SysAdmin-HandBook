@@ -12,6 +12,7 @@ tags:
   - Bash
   - terminal
 draft: false
+share: "true"
 ---
 
 # Weird issue I've never seen before

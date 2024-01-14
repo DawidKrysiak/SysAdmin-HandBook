@@ -1,11 +1,12 @@
-
 ---
-layout: post
-title: "Linux related useful oneliners"
-date: 2021-12-11T19:05:00Z
-author: Dawid Krysiak
-tags: Linux Bash
+share: "true"
+date: 2021-11-12T19:05:00Z
+tags:
+  - Linux
+  - Bash
 draft: false
+---
+
 ---
 
 ### MySQL tunnel

@@ -1,3 +1,10 @@
+---
+share: "true"
+tags:
+  - Linux
+  - Bash
+---
+
 [bash-scripting]
 [vim]
 [text-manipulation]

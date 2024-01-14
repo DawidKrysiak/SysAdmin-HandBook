@@ -11,6 +11,7 @@ tags:
   - windows
   - macos
 draft: false
+share: "true"
 ---
 ## Why it's here, there are so many tutorials online?
 I decided to give it a go and ditch visual IDEs completely. Trying to make neovim my primary text editor / IDE. Keeping the notes here, just in case I need a cheat sheet.

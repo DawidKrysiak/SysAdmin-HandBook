@@ -9,6 +9,7 @@ tags:
   - AWS
   - aws
   - AWSConfig
+share: "true"
 ---
 
 

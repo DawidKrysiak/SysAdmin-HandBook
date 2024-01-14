@@ -9,6 +9,7 @@ tags:
   - Linux
   - AmazonLinux2023
   - AmazonLinux2022
+share: "true"
 ---
 
 ## Things to know when migrating from Amazon Linux 1 or Amazon Linux 2 to Amazon Linux 2022 - tempfs

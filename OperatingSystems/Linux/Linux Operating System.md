@@ -1,3 +1,10 @@
+---
+share: "true"
+tags:
+  - Linux
+---
+
+
 In very basic terms, Linux comprise of 3 'layers'
 
 1. [[Kernel]]

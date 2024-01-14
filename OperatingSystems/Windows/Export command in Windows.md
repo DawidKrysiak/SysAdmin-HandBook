@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "How to implement export command from Linux in Windows"
-tagline: "When WSL is just a bit too much for your needs"
+title: How to implement export command from Linux in Windows
+tagline: When WSL is just a bit too much for your needs
 description: Tutorial on how to implement Linux export command in Windows PowerShell
 url: itisoktoask.me
 date: 2023-11-04T15:42:00Z
 author: Dawid Krysiak
-tags: Windows Linux
+tags:
+  - Windows
+  - Linux
 draft: false
+share: "true"
 ---
 
 ## check if you have a PowerShell profile set up.

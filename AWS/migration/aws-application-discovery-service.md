@@ -1,4 +1,13 @@
+---
+tags:
+  - aws
+share: "true"
+---
+
+
 # AWS Application Discovery Service
+
+
 
 AWS Application Discovery Service helps you plan your migration to the AWS cloud by collecting usage and configuration data about your on-premises servers and databases.
 

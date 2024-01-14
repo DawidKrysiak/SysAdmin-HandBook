@@ -11,6 +11,7 @@ tags:
   - Linux
   - AmazonLinux2023
 draft: false
+share: "true"
 ---
 # Things to know when migrating from Amazon Linux 1 or Amazon Linux 2 to Amazon Linux 2023 
 

@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Apple Mac keyboard on Linux"
+title: Apple Mac keyboard on Linux
 date: 2021-12-13T19:42:00Z
-tags: macos linux 
+tags:
+  - macos
+  - linux
 draft: false
+share: "true"
 ---
 
 ## Preface

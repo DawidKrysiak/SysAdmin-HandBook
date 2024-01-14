@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "AWS CloudWatch Insights - count visits from IP addresses"
-tagline: "Use cloudwatch insights instead of athena"
+title: AWS CloudWatch Insights - count visits from IP addresses
+tagline: Use cloudwatch insights instead of athena
 description: if you have a log that contains the IP addresses of your visitors and you wish to calculate that, you can use CloudWatch Insights
 url: itisoktoask.me
 date: 2022-06-04T22:42:00Z
 author: Dawid Krysiak
-tags: AWS EC2 CloudWatch security
+tags:
+  - AWS
+  - EC2
+  - CloudWatch
+  - security
 draft: false
+share: "true"
 ---
 
 

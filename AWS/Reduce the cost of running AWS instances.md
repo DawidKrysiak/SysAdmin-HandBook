@@ -8,6 +8,7 @@ tags:
   - aws
   - ec2
   - rds
+share: "true"
 ---
 
 

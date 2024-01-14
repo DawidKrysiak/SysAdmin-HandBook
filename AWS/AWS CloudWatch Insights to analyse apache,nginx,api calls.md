@@ -1,3 +1,10 @@
+---
+share: "true"
+tags:
+  - aws
+  - CloudWatch
+  - CloudWatchInsights
+---
 
 count the unique IP addresses in the apache/nginx/flow logs
 

@@ -1,3 +1,9 @@
+---
+share: "true"
+tags:
+  - aws
+---
+
 ## Amazon EMR
 #### Amazon EMR makes it simple and cost effective to run highly distributed processing frameworks such as Hadoop, Spark, and Presto when compared to on-premises deployments. Amazon EMR is flexible – you can run custom applications and code, and define specific compute, memory, storage, and application parameters to optimize your analytic requirements.
 

@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Metabase on EC2 Amazon Linux 2 - tutorial"
-tagline: "Metabase installation on AWS Amazon Linux 2"
+title: Metabase on EC2 Amazon Linux 2 - tutorial
+tagline: Metabase installation on AWS Amazon Linux 2
 description: Metabase installation and configuration on AWS Amazon Linux 2 EC2 instance. Step by step tutorial
 url: itisoktoask.me
-author: Dawid 'Grendel' Krysiak 
+author: Dawid 'Grendel' Krysiak
 date: 2021-07-24T19:06:00Z
 draft: false
-tags: metabase ec2 aws tutorial
+tags:
+  - metabase
+  - ec2
+  - aws
+  - tutorial
+share: "true"
 ---
 # Metabase on Amazon Linux 2
 ## This tutorial covers deployment steps of Metabase system using Amazon Linux 2.

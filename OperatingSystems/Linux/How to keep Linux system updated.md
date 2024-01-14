@@ -7,6 +7,7 @@ tags:
   - Linux
   - Bash
 draft: false
+share: "true"
 ---
 
 # How to ensure your Linux-based EC2 instance is updated

@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 [[FileSystem Structure]]
 
 [[Basic FileSystem operations]]

@@ -1,3 +1,8 @@
+---
+share: "true"
+---
+
+
 * OSI Model
 * Common ports
 * Port forwards / reverse proxy

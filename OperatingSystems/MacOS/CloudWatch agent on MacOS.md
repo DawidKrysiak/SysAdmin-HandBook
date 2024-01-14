@@ -7,6 +7,7 @@ tags:
   - aws
   - macos
   - ec2
+share: "true"
 ---
 
 
