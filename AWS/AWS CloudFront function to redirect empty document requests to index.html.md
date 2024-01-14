@@ -171,4 +171,4 @@ Somewhere along the way you should have locked down your s3 bucket so it's not p
     ]
 }
 ```
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

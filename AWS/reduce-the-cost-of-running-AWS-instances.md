@@ -53,4 +53,4 @@ Attach it to Lambda as execution policy
 
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

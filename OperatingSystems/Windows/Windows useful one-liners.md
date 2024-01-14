@@ -38,4 +38,4 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\MaxNumFilters****
 
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

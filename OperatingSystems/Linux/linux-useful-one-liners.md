@@ -179,4 +179,4 @@ find . -type f -name "*.py" -exec sed -i "s/\"\"\"/'''/g" {} +
 
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

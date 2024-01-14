@@ -37,4 +37,4 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a fetch-c
 
 ## check CloudWatch metrics for the new data.
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

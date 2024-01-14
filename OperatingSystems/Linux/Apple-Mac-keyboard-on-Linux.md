@@ -35,7 +35,7 @@ So there is another solution.
 
 ```echo "xmodmap -e 'keycode 169 = Insert'" >> ~/bash_rc```
 
-That wil make the screen freeze for a second once - upon login to the desktop, but I see no issues afterwards.
+That will make the screen freeze for a second once - upon login to the desktop, but I see no issues afterwards.
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/

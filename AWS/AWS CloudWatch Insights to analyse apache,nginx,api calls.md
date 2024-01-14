@@ -4,6 +4,7 @@ tags:
   - aws
   - CloudWatch
   - CloudWatchInsights
+date: 2024-01-14
 ---
 
 count the unique IP addresses in the apache/nginx/flow logs

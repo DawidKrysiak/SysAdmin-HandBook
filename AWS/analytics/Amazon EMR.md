@@ -2,6 +2,7 @@
 share: "true"
 tags:
   - aws
+date: 2024-01-14
 ---
 
 ## Amazon EMR

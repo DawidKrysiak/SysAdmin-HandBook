@@ -47,4 +47,4 @@ Just to make sure it doesn't come back, remove the AWSConfig role from IAM Roles
 
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

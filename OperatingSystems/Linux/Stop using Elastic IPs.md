@@ -120,4 +120,4 @@ Stop/start your machine to see if you loose your external (public) IP. If your i
 
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 

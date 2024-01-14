@@ -1,9 +1,11 @@
 ---
 share: "true"
+title: SysAdmin Handbook
+date: 2024-01-14
 ---
 
 
-This document is a set of notes on the broad subject of 'sysadmin work'.
+This page is a set of notes on the broad subject of 'sysadmin work'.
 
 My 'computer guy career' started as a filthy pirate at the late '80s (Arrrrrr), 6502 coder, then slowly moved to helping companies with DOS, Windows 3.x and first attempts to LAN creation and management. Over time, full-on Windows 9x, NT administration, sizeable LAN creation. Then Linux came about and my world just exploded. 
 
@@ -17,7 +19,7 @@ In many sections, you'll find a copy/paste solution to a real-world problem I ha
 
 In no particular order:
 [[Networking]]
-[[Linux Operating System]]
+[[linux-operating-system]]
 [[Security and Compliance programmes]]
 [[Virtualisation and Cloud]]
 [[Databases Ops]]

@@ -250,4 +250,4 @@ sudo systemctl restart mysqld.service
 
 
 
-(c) Dawid Krysiak https://itisoktoask.me/ http://www.krysiak.biz/
+(c) Dawid Krysiak https://itisoktoask.me/ 
