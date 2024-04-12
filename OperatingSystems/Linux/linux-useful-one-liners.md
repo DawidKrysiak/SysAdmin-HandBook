@@ -177,6 +177,12 @@ Quick invention inspired by the need to tidy up someone else's code. This partic
 find . -type f -name "*.py" -exec sed -i "s/\"\"\"/'''/g" {} +
 ```
 
+### find occurences of the values following specific pattern (e.g. userId=)
+
+```
+find . -type f -mtime -365 -exec grep -oP '\?userId=\K[^&]*' {} + | cut -d':' -f2- | awk '{count[$0]++} END {for (word in count) print count[word], word}'
+```
+
 
 
 (c) Dawid Krysiak https://itisoktoask.me/ 
