@@ -183,6 +183,23 @@ find . -type f -name "*.py" -exec sed -i "s/\"\"\"/'''/g" {} +
 find . -type f -mtime -365 -exec grep -oP '\?userId=\K[^&]*' {} + | cut -d':' -f2- | awk '{count[$0]++} END {for (word in count) print count[word], word}'
 ```
 
+### where is my system connecting to?
+```
+#!/bin/bash
+
+# List outgoing network connections
+ss -tnp | grep ESTAB| awk '{print $5}' | cut -d':' -f1 | sort | uniq | while read -r ip; do
+  # Resolve IP address to domain name
+  domain=$(host "$ip" | awk '/domain name pointer/ {print $5}')
+  echo "IP: $ip - Domain: $domain"
+done
+```
+
+* save the above to a file `stablished-connections.sh`
+* make it executable `chmod a+x established-connections.sh`
+* execute `./established-connections.sh`
+
+
 
 
 (c) Dawid Krysiak https://itisoktoask.me/ 
